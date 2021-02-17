@@ -1,6 +1,6 @@
 ## Louise Ballantyne
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+In my quest to satisfy my previously unsated thirst for problem solving, I'm Learning to code with Makers - one of Europe's top Dev Bootcamps. During the 6 years I spent as a primary school teacher, I continuously strove to ignite the passion I have for STEM in young minds, despite battling a serious lack of resources, hardware so old it creaked and a tenuous internet connection. My brain muscle never quite felt that it got the workout it had grown accustomed to throughout my Physics degree, so I decided to take my career in a new direction, while maintaining my voluntary roles with Birdline (Parrot Rescue Charity) as Area Co-ordinator and Rehoming Officer.
 
 ## Projects
 
