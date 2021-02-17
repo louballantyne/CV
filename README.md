@@ -1,4 +1,4 @@
-## Your Name
+## Louise Ballantyne
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -42,23 +42,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2021 - May 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (2008 - 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSci (Integrated) in Physics with Astrophysics
+- 2:1
+- Final year project involved searching for Galaxies in the Zone of Avoidance
 
-#### Any other qualifications
+#### University of Roehampton (2013 - 2014)
 
-That in some arguable way make you a better software developer or well-rounded person
+- PGCE - Primary with Science Specialism
+
+#### Sutton Coldfield Grammar School for Girls (2001 - 2008)
+
+A-Levels (A,A,A,A) in Physics, Maths, English Literature, General Studies
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Running, Reading, Parrots
