@@ -50,15 +50,15 @@ As an individual that thrives on meticulous structure in my daily life, I have a
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### University of Roehampton (2013 - 2014)
+
+- PGCE - Primary with Science Specialism
+
 #### University of Bristol (2008 - 2012)
 
 - MSci (Integrated) in Physics with Astrophysics
 - 2:1
 - Final year project involved searching for Galaxies in the Zone of Avoidance
-
-#### University of Roehampton (2013 - 2014)
-
-- PGCE - Primary with Science Specialism
 
 #### Sutton Coldfield Grammar School for Girls (2001 - 2008)
 
