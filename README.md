@@ -11,14 +11,6 @@ In my quest to satisfy my previously unsated thirst for problem solving, I'm Lea
 
 ## Experience
 
-**Peppard C of E Primary School** (September 2015 to August 2018)  
-Class Teacher, Head of Science and Computing.
-
-- Lead staff meetings on approaches to the Computing curriclum
-- Supported colleagues in all areas of technology (first line of defence)
-- Taught approaches to solving problems
-- Responsible for resourcing Science and Computing subject areas
-
 **Three Bridges Primary School** (September 2018 to August 2020)  
 Class Teacher, Head of Computing.
 
@@ -26,6 +18,14 @@ Class Teacher, Head of Computing.
 - Supported colleagues in all areas of technology
 - Planned whole school approach to Computing 
 - Responsible for resourcing Computing subject areas and for ensuring that appropriate infrastructure was in place
+
+**Peppard C of E Primary School** (September 2015 to August 2018)  
+Class Teacher, Head of Science and Computing.
+
+- Lead staff meetings on approaches to the Computing curriclum
+- Supported colleagues in all areas of technology (first line of defence)
+- Taught approaches to solving problems
+- Responsible for resourcing Science and Computing subject areas
 
 ## Skills
 
