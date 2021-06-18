@@ -6,10 +6,20 @@ In my quest to satisfy my previously unsated thirst for problem solving, I'm Lea
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Parrot Party**             | A webapp to enable parrot rescue charities to list parrots available | React Native, Jest, Node,  |
+|                              | for adoption and for members to apply for them.                      | Express,MongoDB            |
+
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
+
+**Voluntary Position - Birdline Parrot Rescue UK** (August 2020 onwards)  
+Rehoming Officer, Area Co-ordinator.
+
+- Call new members to make an initial assessment of suitability as a home
+- Assess and decide on foster applications for a specific type of parrot
+- Carry out home checks and assess suitability
+- Carry out assessments of which species would suit a particular home/family
 
 **Three Bridges Primary School** (September 2018 to August 2020)  
 Class Teacher, Head of Computing.
@@ -48,7 +58,7 @@ More is achieved in a day which is time-managed and carefully planned. As an ind
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest
 
 #### University of Roehampton (2013 - 2014)
 
