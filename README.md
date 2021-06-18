@@ -6,9 +6,7 @@ In my quest to satisfy my previously unsated thirst for problem solving, I'm Lea
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Parrot Party**             | A webapp to enable parrot rescue charities to list parrots available | React Native, Jest, Node,  |
-|                              | for adoption and for members to apply for them.                      | Express,MongoDB            |
-
+| **Parrot Party**             | A webapp to enable parrot rescue charities to list parrots available for adoption and for members to apply for them. | React Native, Jest, Node, Express,MongoDB |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
