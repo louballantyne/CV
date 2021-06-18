@@ -19,7 +19,7 @@ Rehoming Officer, Area Co-ordinator.
 - Carry out home checks and assess suitability
 - Carry out assessments of which species would suit a particular home/family
 
-**Three Bridges Primary School** (September 2018 to August 2020)  
+**Three Bridges Primary School** (September 2017 to August 2020)  
 Class Teacher, Head of Computing.
 
 - Lead staff meetings on areas of the Computing curriculum that were less understood
@@ -27,7 +27,7 @@ Class Teacher, Head of Computing.
 - Planned whole school approach to Computing 
 - Responsible for resourcing Computing subject areas and for ensuring that appropriate infrastructure was in place
 
-**Peppard C of E Primary School** (September 2015 to August 2018)  
+**Peppard C of E Primary School** (September 2014 to August 2017)  
 Class Teacher, Head of Science and Computing.
 
 - Lead staff meetings on approaches to the Computing curriclum
